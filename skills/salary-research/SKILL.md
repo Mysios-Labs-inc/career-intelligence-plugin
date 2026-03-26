@@ -1,4 +1,5 @@
 ---
+name: salary-research
 description: Comprehensive salary research and negotiation coaching with real-time market data
 ---
 

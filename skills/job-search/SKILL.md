@@ -1,4 +1,5 @@
 ---
+name: job-search
 description: Intelligent job search with personalized recommendations and application tracking
 ---
 

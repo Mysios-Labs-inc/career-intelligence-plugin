@@ -22,16 +22,16 @@
     "interview",
     "salary"
   ],
-  "author": "JobSeeking.ai Team <hello@jobseeking.ai>",
+  "author": "Mysios Labs Inc <hello@mysioslabs.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/claude-jobseeking-plugin.git"
+    "url": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/claude-jobseeking-plugin/issues"
+    "url": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin/issues"
   },
-  "homepage": "https://github.com/your-username/claude-jobseeking-plugin#readme",
+  "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin#readme",
   "dependencies": {
     "@types/node": "^20.0.0",
     "axios": "^1.6.0",

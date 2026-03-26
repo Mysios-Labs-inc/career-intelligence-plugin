@@ -1,4 +1,5 @@
 ---
+name: interview-prep
 description: Comprehensive interview preparation with company research, question practice, and personalized coaching
 ---
 

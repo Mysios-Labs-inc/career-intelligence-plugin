@@ -1,4 +1,5 @@
 ---
+name: resume-optimizer
 description: Generate and optimize resumes using your stored profile data for ATS systems and specific job roles. Automatically creates personalized resumes from your profile or helps optimize existing resumes. Use when you need to create a targeted resume for a specific job, update your resume format, or optimize for ATS scanning.
 ---
 
