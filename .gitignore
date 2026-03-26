@@ -151,3 +151,7 @@ personal_profiles/
 *.backup
 testing/
 sandbox/
+
+# Release automation (keep)
+!release.sh
+!.github/
