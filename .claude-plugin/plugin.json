@@ -1,5 +1,5 @@
 {
-  "name": "jobseeking-plugin",
+  "name": "claude-jobseeking-plugin",
   "version": "1.2.0",
   "description": "🧠 AI-powered job application assistant with intelligent profile analysis, skills gap assessment, and market intelligence. Enhanced document upload + real-time career insights for competitive job searching.",
   "author": {
