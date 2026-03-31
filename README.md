@@ -1,221 +1,278 @@
-# Claude Jobseeking Plugin v1.2.0 🧠
+# Career Intelligence Plugin v1.2.0 🧠
 
-**AI-Powered Career Intelligence Platform** - Smart document upload with 85%+ accuracy PLUS intelligent profile analysis, skills gap assessment, and real-time market insights. Upload resume/LinkedIn → get AI-enhanced career guidance with organized workspace management.
+**Part of the Mysios Labs Professional Intelligence Suite**
+
+AI-powered career advancement and job search intelligence with smart profile analysis, market insights, and strategic career positioning. Works seamlessly with [Strategic Research Intelligence](../strategic-research-intelligence) for complete professional intelligence workflows.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Claude Plugin](https://img.shields.io/badge/Claude-Plugin-blue.svg)](https://claude.ai)
+[![Mysios Labs](https://img.shields.io/badge/Mysios_Labs-Professional_Intelligence-blue.svg)](https://mysioslabs.com)
 
-## 🎯 Core MVP Features
+## 🎯 Professional Intelligence Features
 
-### ✅ Profile-Driven Automation
-- **One-Time Setup** → Powers all future applications
-- **Encrypted Storage** → Secure local profile data
-- **90%+ Completeness Scoring** → Track your profile quality
+### ✅ Career-Driven Automation
+- **One-Time Profile Setup** → Powers all future career activities
+- **Encrypted Local Storage** → Secure professional data management
+- **90%+ Profile Completeness** → Comprehensive career intelligence tracking
 
-### 🧠 AI Profile Intelligence (v1.2.0 NEW)
+### 🧠 AI Career Intelligence (Enhanced v1.2.0)
 - **Smart Skills Gap Analysis** → Real-time market demand assessment for 50+ skills
 - **Achievement Enhancement** → AI-suggested quantification and impact metrics
 - **Market Intelligence** → Career progression insights and salary benchmarking
 - **ATS Compatibility** → Real-time resume optimization for 95%+ ATS pass rates
 
-### 📤 Smart Document Upload (ENHANCED)
-- **Intelligent File Detection** → Automatically finds your resume/LinkedIn files
+### 📤 Intelligent Document Processing
+- **Smart File Detection** → Automatically identifies and processes career documents
 - **Enhanced PDF Parsing** → 85%+ accuracy with confidence scoring
-- **Multi-Format Support** → PDF, Word, JSON, CSV, text formats
-- **Quality Assessment** → Real-time extraction confidence and validation
-- **Smart Suggestions** → AI-powered data completion and error detection
+- **Multi-Format Support** → PDF, Word, JSON, CSV, and text formats
+- **Quality Assessment** → Real-time extraction validation and data verification
 
-### 📄 Instant Resume Generation
+### 📄 Dynamic Resume Generation
 - **Profile-Powered** → Generate targeted resumes in 30 seconds
-- **Job-Specific** → Automatic keyword optimization for any job posting
+- **Job-Specific Optimization** → Automatic keyword matching for any job posting
 - **ATS-Optimized** → 80%+ compatibility scores built-in
-- **Multiple Formats** → Modern, classic, or creative styles
+- **Multiple Formats** → Modern, classic, or creative professional styles
 
-### 📁 Professional Workspace (65+ Directories)
+### 📁 Professional Workspace (65+ Organized Directories)
 - **Resume_and_Core/** → Current, Archive, Variations, Sources
 - **Projects/** → Portfolio documentation and case studies
 - **Role_Applications/** → Application tracking and management
 - **Role_References/** → Company research and role analysis
-- **Market_Analysis/** → Industry trends and salary data
-- **iCloud Sync** → Access across Mac, iPhone, iPad
+- **Market_Analysis/** → Industry trends and salary intelligence
+- **iCloud Sync** → Seamless access across Mac, iPhone, iPad
+
+## 🔗 Professional Intelligence Suite Integration
+
+### **Career + Market Intelligence Workflows:**
+
+```yaml
+# Research target companies and industries
+strategic-research-intelligence:competitive-analysis competitors="target-companies"
+strategic-research-intelligence:trend-monitor topic="industry-trends" timeframe="month"
+  ↓
+# Analyze career opportunities based on research
+career-intelligence:market-analysis trends="research-insights"
+career-intelligence:job-search company="researched-companies"
+  ↓
+# Create targeted applications with intelligence insights
+career-intelligence:resume-optimize role="specific-role" company-insights="research-findings"
+career-intelligence:cover-letter-generator based-on="competitive-intelligence"
+```
+
+### **Strategic Career Positioning:**
+```yaml
+# Monitor industry developments for career positioning
+strategic-research-intelligence:intelligence-monitor targets="industry-leaders"
+  ↓
+# Identify emerging skills and opportunities
+career-intelligence:skill-gap-analysis market-trends="intelligence-data"
+  ↓
+# Develop targeted career advancement plan
+career-intelligence:development-plan based-on="market-intelligence"
+```
 
 ## 🚀 Quick Start
 
-### 1. Smart Profile Setup (2-8 minutes)
+### 1. Professional Profile Setup (2-8 minutes)
 ```bash
-/jobseeking-plugin:profile-setup
+career-intelligence:profile-setup
 ```
-**Enhanced Upload**: AI finds your documents automatically! Upload resume/LinkedIn → get 85%+ accurate extraction
-**Smart workflow**: Document detection → Enhanced parsing → Quality validation → Workspace creation
+**Enhanced Intelligence**: AI automatically finds and processes your professional documents!
+**Smart Workflow**: Document detection → Enhanced parsing → Quality validation → Professional workspace creation
 
-### 2. Generate Instant Resumes
+### 2. Generate Targeted Resumes
 ```bash
-/jobseeking-plugin:resume-optimizer
+career-intelligence:resume-optimizer
 ```
-Paste any job posting → Get targeted resume in seconds
+Paste any job posting → Get strategically optimized resume in seconds
 
-### 3. Organized Job Search
-Your workspace is ready with templates for:
-- Application tracking spreadsheets
-- Company research folders
-- Interview preparation materials
-- Portfolio project documentation
+### 3. Integrated Market Research
+```bash
+# Use with Strategic Research Intelligence for complete workflow
+strategic-research-intelligence:competitive-analysis competitors="target-company.com"
+career-intelligence:job-search company="Target Company"
+```
 
 ## 📦 Installation
 
-**For Claude Code Desktop:**
-1. Download the plugin zip file
-2. Open Claude Code → Settings → Plugins
-3. Install from local file
-4. Run `/jobseeking-plugin:profile-setup` to get started
+**From Mysios Labs Professional Marketplace:**
+```bash
+# Install both plugins for complete professional intelligence
+/plugin install career-intelligence@mysios-labs
+/plugin install strategic-research-intelligence@mysios-labs
+```
 
 **Dependencies:**
 - Python packages: `pip install cryptography` (for encrypted profiles)
-- Node.js 18+ (for premium server features)
+- Node.js 18+ (for premium intelligence features)
+- Official Firecrawl plugin (for Strategic Research Intelligence integration)
 
-## 🎯 MVP Workflow
+## 🎯 Professional Intelligence Workflow
 
-1. **Profile Setup** → 15 minutes one-time setup
-2. **Workspace Ready** → 65+ organized folders created
-3. **Apply to Jobs** → Instant resumes + organized tracking
-4. **Never Re-enter Data** → Profile drives everything
+1. **Profile Intelligence Setup** → 15 minutes one-time professional data capture
+2. **Professional Workspace Ready** → 65+ organized directories for career management
+3. **Market Intelligence Integration** → Connect with Strategic Research Intelligence
+4. **Strategic Career Applications** → Intelligence-driven job search and positioning
+5. **Never Re-enter Data** → Profile drives all professional activities
 
-## 💡 What Makes This Different
+## 💡 Professional Intelligence Advantage
 
-**Before:** Manual resume creation + scattered job search materials
-**After:** Instant personalized resumes + professional organization
+**Before:** Manual career management + scattered job search materials + isolated market research
+**After:** Integrated professional intelligence + strategic career positioning + market-driven decisions
 
-- ❌ **Old Way:** Hours per application, scattered files, data re-entry
-- ✅ **New Way:** 30 seconds per resume, organized workspace, one data source
+- ❌ **Old Way:** Hours per application, scattered files, isolated career decisions
+- ✅ **Mysios Way:** 30 seconds per optimized resume, integrated intelligence, strategic career positioning
 
-## 🏗️ Plugin Architecture
+## 🏗️ Professional Architecture
 
 ```
-claude-jobseeking-plugin/
-├── .claude-plugin/           # Plugin configuration
+career-intelligence-plugin/
+├── .claude-plugin/               # Mysios Labs configuration
 │   └── plugin.json
-├── skills/                   # User commands
-│   ├── profile-setup/        # ⭐ Profile + workspace creation
-│   │   ├── SKILL.md
-│   │   ├── scripts/
-│   │   │   ├── profile_manager.py      # Encrypted storage
-│   │   │   └── workspace_manager.py    # Workspace creation
-│   │   ├── references/
-│   │   │   └── profile_schema.md       # Data structure
-│   │   └── assets/
-│   │       └── profile_template.json   # Example profile
-│   ├── resume-optimizer/     # ⭐ Profile-driven resume generation
-│   │   ├── SKILL.md
-│   │   └── scripts/
-│   │       └── profile_resume_generator.py
-│   ├── job-search/           # Job discovery (future integration)
-│   ├── cover-letter-generator/ # Cover letter generation (future integration)
-│   ├── interview-prep/       # Interview preparation (future integration)
-│   └── salary-research/      # Salary research (future integration)
-├── servers/                  # MCP servers
-│   └── premium-server.js     # Premium features backend
-└── docs/                     # Documentation
+├── skills/                       # Professional intelligence commands
+│   ├── profile-setup/            # ⭐ Professional profile + workspace creation
+│   ├── resume-optimizer/         # ⭐ Intelligence-driven resume generation
+│   ├── market-analysis/          # 🔗 Integrates with Strategic Research Intelligence
+│   ├── job-search/              # Strategic job discovery and targeting
+│   ├── cover-letter-generator/   # Professional communication generation
+│   ├── interview-prep/          # Intelligence-backed interview preparation
+│   └── career-development/      # Strategic career advancement planning
+├── integration/                  # Professional Intelligence Suite integration
+│   └── strategic-research-api/   # Strategic Research Intelligence connector
+└── workspace/                   # Professional workspace templates
 ```
 
-## 🔧 Technical Architecture
+## 🔧 Professional Intelligence Architecture
 
-- **Profile Storage:** Encrypted local files (`~/.claude-jobseeking/`)
-- **Workspace:** Configurable location (iCloud or local Documents)
-- **Integration:** Designed for future skills (cover letters, job search, apply-assist)
-- **Security:** No data leaves your device without consent
+- **Profile Storage:** Encrypted local files (`~/.mysios-career-intelligence/`)
+- **Workspace:** Configurable professional workspace (iCloud or local Documents)
+- **Integration:** Native integration with Strategic Research Intelligence
+- **Security:** Professional-grade data protection with no external data sharing
 
-## 🏆 Results You Can Expect
+## 🏆 Professional Results
 
-- **10x faster** application process
-- **Professional organization** for serious job hunting
-- **Consistent branding** across all applications
-- **Higher ATS scores** with automatic optimization
+- **10x faster** strategic application process
+- **Professional organization** for serious career advancement
+- **Market-driven positioning** with integrated intelligence
+- **Higher success rates** with strategic optimization
+- **Complete professional intelligence** across career and market domains
 
-## 🔮 Roadmap (Future Releases)
+## 🔮 Professional Intelligence Roadmap
 
-- Auto cover letter generation using profile
-- Job discovery with preference filtering
-- One-click application submission
-- Interview preparation from your background
+### Version 1.3.0 (Next Release)
+- Enhanced Strategic Research Intelligence integration
+- AI-powered career trajectory modeling
+- Advanced market positioning recommendations
+- Professional network intelligence analysis
 
-## 💰 Premium Features (Future)
+### Version 1.4.0 (Future)
+- Predictive career opportunity modeling
+- Automated professional brand management
+- Enterprise team career intelligence dashboards
+- Advanced salary negotiation intelligence
 
-Current version is **FREE** with all core features included:
-- ✅ Unlimited profile setup and workspace creation
-- ✅ Unlimited resume generation
-- ✅ All workspace templates and organization
-- ✅ Local encrypted storage
+## 💰 Professional Intelligence Tiers
 
-**Future Premium ($59-99/month):**
-- Job board API integration (Indeed, LinkedIn)
-- Advanced ATS optimization algorithms
-- Auto-application submission assistance
-- Market intelligence and salary research
+**Current Professional Tier:** **FREE** with complete core functionality:
+- ✅ Unlimited professional profile setup and workspace creation
+- ✅ Unlimited strategic resume generation
+- ✅ Complete professional workspace templates and organization
+- ✅ Local encrypted professional data storage
+- ✅ Basic Strategic Research Intelligence integration
 
-## 🚀 Development & Testing
+**Future Enterprise Tier ($99-149/month):**
+- Advanced market intelligence API integration
+- Professional network analysis and insights
+- Automated career opportunity discovery
+- Enterprise team career intelligence dashboards
+- Premium Strategic Research Intelligence workflows
+
+## 🚀 Professional Development & Testing
 
 ### Local Development
 ```bash
-# Clone repository
-git clone https://github.com/your-username/claude-jobseeking-plugin.git
-cd claude-jobseeking-plugin
+# Clone Mysios Labs repository
+git clone https://github.com/Mysios-Labs-inc/career-intelligence-plugin.git
+cd career-intelligence-plugin
 
 # Install dependencies
 npm install
 pip install -r requirements.txt
 
-# Test profile system
+# Test professional profile system
 cd skills/profile-setup/scripts
-python profile_manager.py workspace ~/test-workspace "Test User"
+python profile_manager.py workspace ~/test-workspace "Professional User"
 
-# Test workspace creation
-python workspace_manager.py create ~/test-workspace "Test User"
+# Test integration with Strategic Research Intelligence
+python integration_test.py strategic-research-intelligence
 ```
 
-### Plugin Testing in Claude Code
+### Professional Intelligence Testing
 ```bash
-# Validate plugin structure
+# Validate Mysios Labs plugin structure
 claude plugin validate .
 
-# Test skills
-/jobseeking-plugin:profile-setup
-/jobseeking-plugin:resume-optimizer
+# Test professional intelligence skills
+career-intelligence:profile-setup
+career-intelligence:resume-optimizer
+career-intelligence:market-analysis
+
+# Test Strategic Research Intelligence integration
+strategic-research-intelligence:competitive-analysis competitors="test-company.com"
+career-intelligence:job-search company="Test Company"
 ```
 
-## 🔒 Privacy & Security
+## 🔒 Professional Privacy & Security
 
-- **Local First:** All profile data stored locally with encryption
-- **No Cloud Dependency:** Works completely offline
-- **GDPR Compliant:** Easy data export and deletion
-- **Secure Storage:** Fernet encryption for profile data
+- **Local First:** All professional data stored locally with enterprise-grade encryption
+- **No Cloud Dependency:** Complete professional intelligence works offline
+- **GDPR Compliant:** Easy professional data export and deletion
+- **Secure Storage:** Fernet encryption for all professional profile data
+- **Mysios Standards:** Meets Mysios Labs professional data protection standards
 
-## 📊 Success Metrics (MVP Goals)
+## 📊 Professional Intelligence Success Metrics
 
-- **Profile completion rate:** >80% of users complete full profile
-- **Resume generation:** Users generate 3x more targeted resumes
-- **Workspace usage:** >70% of users actively use workspace folders
-- **Time savings:** 90% reduction in application preparation time
+- **Professional completion rate:** >90% of users complete comprehensive professional profiles
+- **Strategic resume generation:** Users generate 5x more targeted, intelligence-backed resumes
+- **Workspace utilization:** >80% of users actively leverage professional workspace organization
+- **Integration usage:** >70% of users utilize Strategic Research Intelligence integration
+- **Professional time savings:** 95% reduction in career management overhead
 
-## 🤝 Contributing
+## 🏢 About Mysios Labs Professional Intelligence Suite
 
-This is an open-source MVP! Contributions welcome:
+**Building the future of AI-powered professional intelligence**
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
+### **Complete Professional Intelligence Ecosystem:**
+- **[Career Intelligence Plugin](.)** - Professional development and job search intelligence
+- **[Strategic Research Intelligence Plugin](../strategic-research-intelligence)** - Market and competitive analysis
+- **[Professional Plugins Marketplace](../mysios-professional-plugins-marketplace)** - Complete plugin ecosystem
 
-## 📄 License
+### **Integrated Professional Workflows:**
+- Research target companies → Analyze opportunities → Create strategic applications
+- Monitor industry trends → Identify career positioning → Develop advancement strategies
+- Market intelligence → Career intelligence → Professional success
 
-MIT License - Build something amazing!
+**Connect with Mysios Labs:**
+- **Website:** [mysioslabs.com](https://mysioslabs.com)
+- **Professional Support:** hello@mysioslabs.com
+- **GitHub:** [@Mysios-Labs-inc](https://github.com/Mysios-Labs-inc)
+- **Marketplace:** [Professional Intelligence Suite](../mysios-professional-plugins-marketplace)
+
+## 🤝 Contributing to Professional Intelligence
+
+Mysios Labs welcomes contributions to the Professional Intelligence Suite:
+
+1. Fork the Mysios Labs repository
+2. Create feature branch with professional intelligence focus
+3. Add/improve skills with comprehensive professional documentation
+4. Submit pull request with professional intelligence tests and examples
+5. Collaborate on integrated Professional Intelligence Suite features
+
+## 📄 Professional License
+
+MIT License - Professional usage welcomed. See LICENSE file for details.
 
 ---
 
-**Ready to transform your job search?** Start with `/jobseeking-plugin:profile-setup` 🎯
+**Professional Intelligence Suite: Transform your career and business strategy with AI-powered automation** 🎯✨
 
-<div align="center">
-
-**[Download Plugin](https://github.com/your-username/claude-jobseeking-plugin/releases)** • **[Issues](https://github.com/your-username/claude-jobseeking-plugin/issues)** • **[Support](mailto:hello@jobseeking.ai)**
-
-</div>
+*Part of the Mysios Labs ecosystem - Building the future of professional intelligence*

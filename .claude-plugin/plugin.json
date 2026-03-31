@@ -1,20 +1,23 @@
 {
-  "name": "claude-jobseeking-plugin",
+  "name": "career-intelligence-plugin",
   "version": "1.2.0",
-  "description": "🧠 AI-powered job application assistant with intelligent profile analysis, skills gap assessment, and market intelligence. Enhanced document upload + real-time career insights for competitive job searching.",
+  "description": "🧠 AI-powered career intelligence with intelligent profile analysis, skills gap assessment, and market intelligence. Part of the Mysios Labs Professional Intelligence Suite - integrates with Strategic Research Intelligence for complete professional workflows.",
   "author": {
     "name": "Mysios Labs Inc",
     "email": "hello@mysioslabs.com"
   },
-  "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin",
-  "repository": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin",
+  "homepage": "https://github.com/Mysios-Labs-inc/career-intelligence-plugin",
+  "repository": "https://github.com/Mysios-Labs-inc/career-intelligence-plugin",
   "license": "MIT",
-  "keywords": ["job-search", "resume", "career", "interview", "ai-assistant"],
+  "keywords": ["career-intelligence", "professional-development", "job-search", "resume", "career", "mysios-professional", "ai-assistant"],
+  "integrations": [
+    "strategic-research-intelligence"
+  ],
   "userConfig": {
     "api_key": {
       "type": "string",
       "title": "Premium API Key",
-      "description": "Premium API key for advanced features (get yours at jobseeking.ai)",
+      "description": "Premium API key for advanced features (get yours at mysioslabs.com)",
       "sensitive": true
     }
   }
