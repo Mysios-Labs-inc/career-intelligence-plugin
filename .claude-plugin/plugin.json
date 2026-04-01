@@ -13,9 +13,11 @@
   "userConfig": {
     "api_key": {
       "type": "string",
-      "title": "Premium API Key",
-      "description": "Premium API key for advanced features (get yours at mysioslabs.com)",
-      "sensitive": true
+      "title": "Premium API Key (Optional)",
+      "description": "Premium API key for advanced features (get yours at mysioslabs.com). Leave empty for basic functionality.",
+      "sensitive": true,
+      "required": false,
+      "default": ""
     }
   }
 }
