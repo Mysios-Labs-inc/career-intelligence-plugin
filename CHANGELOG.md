@@ -2,6 +2,35 @@
 
 All notable changes to the Claude Jobseeking Plugin will be documented in this file.
 
+## [1.3.0] - 2026-04-01
+
+### 🏗️ System Setup Skill
+
+#### Career Workspace Initialization
+- **`system-setup` skill**: New foundational skill that initializes the complete career intelligence infrastructure
+- **Directory structure**: Creates `career-ops/` workspace with 40+ organized directories for resumes, applications, research, interview prep, networking, and projects
+- **State management**: Persistent state tracking for application pipeline, resume generation history, job search progress, interview prep, and cross-skill analytics
+- **Configuration files**: Auto-generates `settings.yaml`, `integrations.yaml`, and `schedules.yaml` with sensible defaults
+- **Template population**: Every directory populated with README guides, starter templates (application tracker, STAR story format, company research, achievement bank, referral request, project case study)
+
+#### System Operations
+- **Dependency validation**: Checks all Python and Node.js packages with actionable install commands
+- **Health checks**: Quick `--health` and detailed `--validate` modes for system diagnostics
+- **Backup & restore**: Compressed workspace backups with configurable destination
+- **Cleanup automation**: Auto-archive old applications and rotate logs based on configurable retention
+- **Security**: File permissions (700/600) on sensitive profile and config data
+
+#### Workspace Locations
+- **iCloud (default)**: Cross-device sync across Mac, iPhone, iPad
+- **Local Documents**: Privacy-first, no cloud sync
+- **Custom path**: User-specified directory
+
+#### Integration
+- Plugin integration pointer at `~/.mysios-career-intelligence/` connects all skills to the workspace
+- All existing skills (profile-setup, resume-optimizer, job-search, interview-prep, etc.) consume the initialized infrastructure
+
+---
+
 ## [1.2.0] - 2026-03-26
 
 ### 🧠 AI-Powered Profile Intelligence

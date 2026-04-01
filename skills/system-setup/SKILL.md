@@ -103,7 +103,7 @@ career-ops/
 ```yaml
 # career-ops/config/settings.yaml
 career_intelligence:
-  version: "1.2.0"
+  version: "1.3.0"
   workspace_name: "career-ops"
   created: "2026-04-01"
 

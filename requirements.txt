@@ -1,4 +1,4 @@
-# Claude Jobseeking Plugin v1.2.0 Python Dependencies
+# Claude Jobseeking Plugin v1.3.0 Python Dependencies
 # AI-powered profile intelligence and analysis
 
 # Core Dependencies (existing)

@@ -561,7 +561,7 @@ For each project, capture:
 
         pointer = {
             "workspace_path": str(self.base_dir),
-            "version": "1.2.0",
+            "version": "1.3.0",
             "created": datetime.now().isoformat(),
         }
         pointer_file = self.profile_integration_dir / "workspace_pointer.json"
@@ -664,7 +664,7 @@ For each project, capture:
 
         settings = {
             "career_intelligence": {
-                "version": "1.2.0",
+                "version": "1.3.0",
                 "workspace_name": "career-ops",
                 "created": now_date,
             },
@@ -770,7 +770,7 @@ For each project, capture:
         readme = f"""# {title}
 
 > **Created:** {datetime.now().strftime('%Y-%m-%d %H:%M')}
-> **Plugin Version:** 1.2.0
+> **Plugin Version:** 1.3.0
 > **Part of the Mysios Labs Professional Intelligence Suite**
 
 ## Directory Map

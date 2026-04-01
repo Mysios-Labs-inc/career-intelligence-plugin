@@ -1,4 +1,4 @@
-# Career Intelligence Plugin v1.2.0 🧠
+# Career Intelligence Plugin v1.3.0 🧠
 
 **Part of the Mysios Labs Professional Intelligence Suite**
 
